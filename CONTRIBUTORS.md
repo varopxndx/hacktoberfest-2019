@@ -1,3 +1,8 @@
+#### Name: [Alvaro Cueva](https://github.com/varopxndx)
+- Place: Guadalajara, Jalisco, Mexico
+- Bio: Software Engineer
+- GitHub: [varopxndx](https://github.com/varopxndx)
+
 #### Name: [James Anderson](https://github.com/moodiest)
 - Place: Huddersfield, Yorkshire, United Kingdom
 - Bio: Cryptocurrency Enthusiast.
